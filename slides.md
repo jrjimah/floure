@@ -4,4 +4,4 @@
 
 # Testing membrane disruption by a toxin
 Analyzed data
-!images/disruption.png
+!(images/disruption.png)
