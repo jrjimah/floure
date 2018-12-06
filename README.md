@@ -1,8 +1,7 @@
-final-project-template
+Liposome disruption
 ==============================
 
-A template I recommend for final projects. Feel free to modify as needed!
-Based on Cookiecutter Data Science:
+[slides](slides.html)
 
 repo: https://github.com/drivendata/cookiecutter-data-science
 
