@@ -8,3 +8,4 @@ Analyzed data
 # Example data of Toxin lysing a membrane
 ![AddAve](images/toxin.png)
 # Example of Unprocessed data
+![AddAve](data.png)
