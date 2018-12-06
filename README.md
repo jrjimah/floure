@@ -3,9 +3,6 @@ Membrane disruption
 
 [slides](slides.html)
 
-repo: https://github.com/drivendata/cookiecutter-data-science
-
-site: http://drivendata.github.io/cookiecutter-data-science/
 
 
 
