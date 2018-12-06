@@ -3,4 +3,5 @@
 % 2018.12.11
 
 # Testing membrane disruption by a toxin
-Analyzed 
+Analyzed data
+images/disruption.png
