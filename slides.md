@@ -5,3 +5,5 @@
 # Testing membrane disruption by a toxin
 Analyzed data
 ![AddAve](images/disruption.png)
+# Example data of Toxin lysing a membrane
+![AddAve](images/toxin.png)
