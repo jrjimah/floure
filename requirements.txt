@@ -1,5 +1,11 @@
 # local package
+pypandoc
 -e .
+pandas
+numpy
+sklearn
+matplotlib
+
 
 # external requirements
 click
