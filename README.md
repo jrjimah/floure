@@ -1,4 +1,4 @@
-Liposome disruption
+Membrane disruption
 ==============================
 
 [slides](slides.html)
